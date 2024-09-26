@@ -2,5 +2,5 @@
 This is my first github
 <Br>
 Auhor-Abhinay kumar
-<Br{
+<Br>
 exiceted to learn something
